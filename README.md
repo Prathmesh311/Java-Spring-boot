@@ -1,4 +1,4 @@
-# Java Spring Boot Project - Owner Avatar
+# Java Spring Boot Projects
 
 This repository contains a Java Spring Boot project developed and maintained by Prathmesh311.
 
